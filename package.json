@@ -1,6 +1,6 @@
 {
   "name": "nobita-schedule",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "nobita-schedule",
   "main": "lib/nobita-schedule.js",
   "dependencies": {
